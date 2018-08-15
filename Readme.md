@@ -15,6 +15,7 @@ password: basil
 Run the command below
 ========================
 $> cd SuperGeeVids
+
 $> ./mvnw install && ./mvnw spring-boot:run -pl supervid-api
 
 (I have used a maven wrapper to support a multi-module application.)
