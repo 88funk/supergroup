@@ -8,7 +8,7 @@ import java.util.List;
 
 public interface IMoviesService {
 
-    public ResultDto addNewVideo(VideoDto videoDto) throws Exception;
-    public ResultDto editVideo(Long id, VideoDto videoDto) throws Exception;
+    public ResultDto addNewVideo(VideoDto videoDto);
+    public ResultDto editVideo(Long id, VideoDto videoDto);
     public List<Movies> findAll();
 }
