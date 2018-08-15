@@ -32,7 +32,7 @@ The app is divided into 4 Modules that handle different components of the applic
 
 * supervid-api - This is the point of integration, it exposes a restapi which can be used by other application to use the backend
  	
-* supervid-common - This is a repository for all utilities used by the code, includes portions of code that are shared within the applion
+* supervid-common - This is a repository for all utilities used by the code, includes portions of code that are shared within the application
 
 * supervid-persistence -  Handles db related stuff
 
