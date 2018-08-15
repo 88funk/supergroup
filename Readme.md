@@ -4,7 +4,7 @@ Extract contents of SuperGeeVids.zip
 
 
 
-# run the attached database backup from a mysql database (/SuperGeeVid/Dump20180219.sql)
+# run the attached database backup from a mysql database (Dump20180219.sql)
 # edit datasource from /SuperGeeVid/supervid-api/src/main/resources/application.properties according to your machine
 
 #login saved in db - 
